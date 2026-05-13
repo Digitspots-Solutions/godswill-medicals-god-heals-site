@@ -1,0 +1,49 @@
+{
+  "businessName": "GODSWILL MEDICALS (GOD HEALS)",
+  "industry": "Healthcare & Pharmaceuticals",
+  "tone": "Professional, Trustworthy, Compassionate",
+  "tagline": "Your Trusted Healthcare Partner in Nsukka",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero Section",
+      "copy": "GODSWILL MEDICALS (GOD HEALS)\n\nYour Trusted Healthcare Partner in Nsukka\n\nProviding quality pharmaceutical services and healthcare solutions to the communities of Udenu and Nsukka LGA. We are committed to your health and well-being with professional care you can trust.\n\nVisit Us Today | Call: 0810 056 7620",
+      "imagePrompt": "A modern, welcoming Nigerian pharmacy storefront with bright lighting, clean glass windows displaying organized pharmaceutical products, professional healthcare signage, located in a vibrant Nsukka neighborhood with people walking by, warm natural sunlight, professional medical aesthetic with green and white color scheme",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Welcome to GODSWILL MEDICALS (GOD HEALS)\n\nLocated along Umundu Orba Road in Udenu LGA, Enugu State, we serve the healthcare needs of Nsukka and surrounding communities with dedication and integrity.\n\nOur pharmacy is built on the foundation of trust, professionalism, and compassionate care. We understand that your health is your most valuable asset, and we are committed to providing you with quality pharmaceutical products, expert advice, and personalized service.\n\nAt GODSWILL MEDICALS, we believe in the healing power of proper medication combined with professional guidance. Our experienced team is always ready to assist you with your healthcare needs, from prescription medications to over-the-counter products and health consultations.\n\nWe maintain strict quality standards, ensuring that all our products are sourced from reputable suppliers and stored under optimal conditions. Your health and safety are our top priorities.",
+      "imagePrompt": "Interior of a well-organized Nigerian pharmacy with neatly arranged shelves of medications, a clean professional counter, friendly pharmacist in white coat attending to customers, bright fluorescent lighting, modern pharmacy equipment, organized pharmaceutical products with clear labeling, professional healthcare environment",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Comprehensive Healthcare Solutions\n\n• Prescription Medications - Expert dispensing of prescribed medicines with professional consultation\n\n• Over-the-Counter Products - Wide range of non-prescription medications and health supplements\n\n• Health Consultations - Professional pharmaceutical advice and medication guidance\n\n• Medical Supplies - Quality medical equipment and healthcare accessories\n\n• Medication Counseling - Detailed information about proper drug usage and interactions\n\n• Health Screenings - Basic health checks including blood pressure and blood sugar monitoring\n\n• First Aid Supplies - Complete range of emergency medical supplies\n\n• Family Planning Products - Confidential and professional reproductive health services\n\nWe accept cash payments and provide receipts for all transactions. Visit us for all your healthcare needs.",
+      "imagePrompt": "A grid layout showing various pharmaceutical services: pharmacist counseling a patient, shelves of organized medications, medical supplies and equipment, blood pressure monitoring device being used, first aid supplies neatly arranged, professional Nigerian healthcare setting with warm lighting and clean modern aesthetic",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Visit Us Today",
+      "copy": "GODSWILL MEDICALS (GOD HEALS)\n\nLocation:\nUmundu Orba Road\nUdenu LGA, Enugu State\nServing Nsukka LGA and surrounding communities\n\nPhone: 0810 056 7620\n\nOpening Hours:\nMonday - Saturday: 8:00 AM - 8:00 PM\nSunday: 10:00 AM - 6:00 PM\n\nEmergency Services: Available for urgent pharmaceutical needs\n\nHow to Reach Us:\n• Call us directly for inquiries and prescription refills\n• Send us a WhatsApp message for quick responses\n• Visit our pharmacy for personalized service\n\nWe are conveniently located along Umundu Orba Road, easily accessible from major parts of Nsukka and Udenu LGA. Look for our distinctive signage and welcoming storefront.\n\nYour health is our priority. Visit GODSWILL MEDICALS today for professional pharmaceutical care you can trust.",
+      "imagePrompt": "A professional Nigerian pharmacy exterior with clear signage reading 'GODSWILL MEDICALS', well-maintained building facade, visible landmark location along a Nigerian road, customers entering the premises, clear directional signage, professional lighting, welcoming entrance with security, typical Nsukka/Enugu architectural style, daytime setting with good visibility",
+      "layout": "default"
+    },
+    {
+      "id": "testimonials",
+      "name": "What Our Customers Say",
+      "copy": "Trusted by the Nsukka Community\n\n\"GODSWILL MEDICALS has been our family's go-to pharmacy for years. The staff is knowledgeable, professional, and always takes time to explain medications properly. Highly recommended!\"\n- Mrs. Chinyere O., Nsukka\n\n\"I appreciate the quality service and genuine care at this pharmacy. They always have what I need, and the pharmacist provides excellent health advice.\"\n- Mr. Emeka U., Udenu\n\n\"Very professional and trustworthy pharmacy. The prices are fair, and they treat every customer with respect and attention. God bless GODSWILL MEDICALS!\"\n- Pastor Samuel A., Orba\n\n\"Clean, well-stocked, and the staff is always helpful. I never have to worry about the quality of medications I get from here.\"\n- Miss Ngozi E., Nsukka LGA",
+      "imagePrompt": "Happy Nigerian customers of various ages holding pharmacy shopping bags, smiling faces showing satisfaction, diverse group including elderly, young adults, and families, standing outside or inside a modern Nigerian pharmacy, warm and friendly atmosphere, professional healthcare setting, authentic Nigerian community representation",
+      "layout": "cards"
+    }
+  ],
+  "contact": {
+    "phone": "08100567620",
+    "email": "",
+    "address": "Umundu Orba Road, Udenu LGA, Enugu State (Serving Nsukka LGA)",
+    "whatsapp": "https://wa.me/2348100567620"
+  }
+}
