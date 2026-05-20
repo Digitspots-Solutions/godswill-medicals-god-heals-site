@@ -1,49 +1,49 @@
 {
-  "businessName": "GODSWILL MEDICALS (GOD HEALS)",
-  "industry": "Healthcare & Pharmaceuticals",
-  "tone": "Professional, Trustworthy, Compassionate",
-  "tagline": "Your Trusted Healthcare Partner in Nsukka",
+  "businessName": "Wise M Investment Partners",
+  "industry": "Financial Services & Insurance",
+  "tone": "formal, authoritative, trustworthy",
+  "tagline": "Your Trusted Partner in Wealth Management and Insurance Solutions",
   "sections": [
     {
       "id": "hero",
-      "name": "Hero Section",
-      "copy": "GODSWILL MEDICALS (GOD HEALS)\n\nYour Trusted Healthcare Partner in Nsukka\n\nProviding quality pharmaceutical services and healthcare solutions to the communities of Udenu and Nsukka LGA. We are committed to your health and well-being with professional care you can trust.\n\nVisit Us Today | Call: 0810 056 7620",
-      "imagePrompt": "A modern, welcoming Nigerian pharmacy storefront with bright lighting, clean glass windows displaying organized pharmaceutical products, professional healthcare signage, located in a vibrant Nsukka neighborhood with people walking by, warm natural sunlight, professional medical aesthetic with green and white color scheme",
+      "name": "Hero",
+      "copy": "Wise M Investment Partners - Building Financial Security for Nigerians. As a leading insurance brokerage and asset management firm serving Nsukka and Enugu State, we provide comprehensive financial solutions tailored to protect your assets and grow your wealth. Licensed, experienced, and committed to your financial success.",
+      "imagePrompt": "Professional Nigerian financial services office interior with modern glass architecture, confident African business professionals reviewing investment documents, warm natural lighting, Nsukka cityscape visible through windows, corporate blue and gold color scheme, photorealistic, high-end financial institution aesthetic",
       "layout": "centered"
     },
     {
       "id": "about",
       "name": "About Us",
-      "copy": "Welcome to GODSWILL MEDICALS (GOD HEALS)\n\nLocated along Umundu Orba Road in Udenu LGA, Enugu State, we serve the healthcare needs of Nsukka and surrounding communities with dedication and integrity.\n\nOur pharmacy is built on the foundation of trust, professionalism, and compassionate care. We understand that your health is your most valuable asset, and we are committed to providing you with quality pharmaceutical products, expert advice, and personalized service.\n\nAt GODSWILL MEDICALS, we believe in the healing power of proper medication combined with professional guidance. Our experienced team is always ready to assist you with your healthcare needs, from prescription medications to over-the-counter products and health consultations.\n\nWe maintain strict quality standards, ensuring that all our products are sourced from reputable suppliers and stored under optimal conditions. Your health and safety are our top priorities.",
-      "imagePrompt": "Interior of a well-organized Nigerian pharmacy with neatly arranged shelves of medications, a clean professional counter, friendly pharmacist in white coat attending to customers, bright fluorescent lighting, modern pharmacy equipment, organized pharmaceutical products with clear labeling, professional healthcare environment",
+      "copy": "Wise M Investment Partners (also operating as Wise M Asset Management Co) is a premier financial services and insurance brokerage firm headquartered in Nsukka LGA, Enugu State. With our strategic location on Umundu Orba Road in Udenu LGA, we serve individuals, families, and businesses across Enugu State and beyond.\n\nOur mission is to demystify financial planning and insurance protection for everyday Nigerians. We understand the unique challenges facing Nigerian families and businesses, from naira volatility to healthcare costs, and we craft solutions that provide real security.\n\nAs licensed insurance brokers, we represent multiple insurance providers, ensuring you receive unbiased advice and the best coverage at competitive rates. Our asset management division helps clients build diversified investment portfolios aligned with their risk tolerance and financial goals.\n\nWhether you need life insurance, health coverage, property protection, vehicle insurance, or investment management services, Wise M Investment Partners delivers expertise you can trust.",
+      "imagePrompt": "Modern Nigerian financial advisory meeting, African insurance broker in professional attire explaining documents to Nigerian family clients, comfortable office setting with certificates on wall, natural daylight, trustworthy atmosphere, photorealistic, warm and professional",
       "layout": "split"
     },
     {
       "id": "services",
       "name": "Our Services",
-      "copy": "Comprehensive Healthcare Solutions\n\n• Prescription Medications - Expert dispensing of prescribed medicines with professional consultation\n\n• Over-the-Counter Products - Wide range of non-prescription medications and health supplements\n\n• Health Consultations - Professional pharmaceutical advice and medication guidance\n\n• Medical Supplies - Quality medical equipment and healthcare accessories\n\n• Medication Counseling - Detailed information about proper drug usage and interactions\n\n• Health Screenings - Basic health checks including blood pressure and blood sugar monitoring\n\n• First Aid Supplies - Complete range of emergency medical supplies\n\n• Family Planning Products - Confidential and professional reproductive health services\n\nWe accept cash payments and provide receipts for all transactions. Visit us for all your healthcare needs.",
-      "imagePrompt": "A grid layout showing various pharmaceutical services: pharmacist counseling a patient, shelves of organized medications, medical supplies and equipment, blood pressure monitoring device being used, first aid supplies neatly arranged, professional Nigerian healthcare setting with warm lighting and clean modern aesthetic",
+      "copy": "**Insurance Brokerage Services**\n• Life Insurance - Secure your family's financial future\n• Health Insurance - Comprehensive medical coverage for individuals and corporate groups\n• Motor Vehicle Insurance - Third-party and comprehensive auto coverage\n• Property Insurance - Protect your home and business assets\n• Business Insurance - Professional indemnity, liability, and business continuity coverage\n\n**Asset Management & Investment Advisory**\n• Portfolio Management - Customized investment strategies for wealth growth\n• Retirement Planning - Build a secure financial future\n• Education Planning - Fund your children's university education\n• Real Estate Investment Advisory - Navigate Nigeria's property market\n• Treasury Management - Corporate cash flow and investment solutions\n\n**Financial Planning**\n• Personal Financial Reviews\n• Risk Assessment & Management\n• Estate Planning Support\n• Tax-Efficient Investment Strategies\n\nAll services delivered with integrity, transparency, and a deep commitment to your financial well-being.",
+      "imagePrompt": "Split-screen composition showing Nigerian insurance documents and investment charts on one side, and happy Nigerian clients shaking hands with professional broker on the other, modern office environment, professional photography, bright and confident mood, photorealistic",
       "layout": "grid"
     },
     {
-      "id": "contact",
-      "name": "Visit Us Today",
-      "copy": "GODSWILL MEDICALS (GOD HEALS)\n\nLocation:\nUmundu Orba Road\nUdenu LGA, Enugu State\nServing Nsukka LGA and surrounding communities\n\nPhone: 0810 056 7620\n\nOpening Hours:\nMonday - Saturday: 8:00 AM - 8:00 PM\nSunday: 10:00 AM - 6:00 PM\n\nEmergency Services: Available for urgent pharmaceutical needs\n\nHow to Reach Us:\n• Call us directly for inquiries and prescription refills\n• Send us a WhatsApp message for quick responses\n• Visit our pharmacy for personalized service\n\nWe are conveniently located along Umundu Orba Road, easily accessible from major parts of Nsukka and Udenu LGA. Look for our distinctive signage and welcoming storefront.\n\nYour health is our priority. Visit GODSWILL MEDICALS today for professional pharmaceutical care you can trust.",
-      "imagePrompt": "A professional Nigerian pharmacy exterior with clear signage reading 'GODSWILL MEDICALS', well-maintained building facade, visible landmark location along a Nigerian road, customers entering the premises, clear directional signage, professional lighting, welcoming entrance with security, typical Nsukka/Enugu architectural style, daytime setting with good visibility",
-      "layout": "default"
+      "id": "why-choose-us",
+      "name": "Why Choose Wise M Investment Partners",
+      "copy": "**Independent Expertise** - As independent insurance brokers, we work for you, not the insurance companies. We compare multiple providers to find you the best coverage at the best price.\n\n**Local Knowledge, National Reach** - Based in Nsukka with deep roots in Enugu State, we understand the local business environment while maintaining partnerships with top national and international insurers.\n\n**Comprehensive Solutions** - From insurance protection to wealth management, we offer integrated financial services under one roof, simplifying your financial life.\n\n**Personalized Service** - Every client receives tailored advice based on their unique circumstances, goals, and budget. No cookie-cutter solutions.\n\n**Licensed & Regulated** - Fully licensed insurance brokerage operating in compliance with Nigerian insurance regulations and best practices.\n\n**Long-Term Partnership** - We build lasting relationships with our clients, supporting you through every life stage and financial milestone.",
+      "imagePrompt": "Nigerian business professional standing confidently in modern office overlooking Nsukka landscape, holding tablet displaying financial growth charts, professional corporate attire, inspiring and aspirational mood, golden hour lighting, photorealistic, high-quality corporate photography",
+      "layout": "cards"
     },
     {
-      "id": "testimonials",
-      "name": "What Our Customers Say",
-      "copy": "Trusted by the Nsukka Community\n\n\"GODSWILL MEDICALS has been our family's go-to pharmacy for years. The staff is knowledgeable, professional, and always takes time to explain medications properly. Highly recommended!\"\n- Mrs. Chinyere O., Nsukka\n\n\"I appreciate the quality service and genuine care at this pharmacy. They always have what I need, and the pharmacist provides excellent health advice.\"\n- Mr. Emeka U., Udenu\n\n\"Very professional and trustworthy pharmacy. The prices are fair, and they treat every customer with respect and attention. God bless GODSWILL MEDICALS!\"\n- Pastor Samuel A., Orba\n\n\"Clean, well-stocked, and the staff is always helpful. I never have to worry about the quality of medications I get from here.\"\n- Miss Ngozi E., Nsukka LGA",
-      "imagePrompt": "Happy Nigerian customers of various ages holding pharmacy shopping bags, smiling faces showing satisfaction, diverse group including elderly, young adults, and families, standing outside or inside a modern Nigerian pharmacy, warm and friendly atmosphere, professional healthcare setting, authentic Nigerian community representation",
-      "layout": "cards"
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to secure your financial future? Let's discuss how Wise M Investment Partners can help you achieve your insurance and investment goals.\n\n**Office Location**\nUmundu Orba Road\nUdenu LGA, Enugu State\nNigeria\n\n**Mailing Address**\nWise M Investment Partners\nNsukka LGA, Enugu State\n\n**Phone**\n+234 810 056 7620\n\n**Website**\nwww.wisemng.com\n\n**Office Hours**\nMonday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM\nSunday: Closed\n\nFor urgent inquiries outside business hours, please send us a WhatsApp message and we'll respond promptly.\n\n**Schedule a Free Consultation**\nContact us today for a no-obligation review of your insurance needs or investment portfolio. Our expert advisors are ready to help you make informed financial decisions.",
+      "imagePrompt": "Professional Nigerian office reception area with modern furniture, map of Enugu State on wall, friendly receptionist, bright natural lighting, welcoming atmosphere, corporate blue and gold branding elements, photorealistic, clean and professional",
+      "layout": "centered"
     }
   ],
   "contact": {
-    "phone": "08100567620",
-    "email": "",
-    "address": "Umundu Orba Road, Udenu LGA, Enugu State (Serving Nsukka LGA)",
+    "phone": "+234 810 056 7620",
+    "email": "info@wisemng.com",
+    "address": "Umundu Orba Road, Udenu LGA, Enugu State, Nigeria",
     "whatsapp": "https://wa.me/2348100567620"
   }
 }
